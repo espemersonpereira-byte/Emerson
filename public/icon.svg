@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0A0B0E"/>
+  <rect x="24" y="24" width="464" height="464" rx="92" stroke="#1E2330" stroke-width="6"/>
+  <!-- Outer Heavy Plates -->
+  <rect x="86" y="136" width="38" height="240" rx="14" fill="#F97316"/>
+  <rect x="388" y="136" width="38" height="240" rx="14" fill="#F97316"/>
+  <!-- Inner Plates -->
+  <rect x="136" y="168" width="32" height="176" rx="10" fill="#EA580C"/>
+  <rect x="344" y="168" width="32" height="176" rx="10" fill="#EA580C"/>
+  <!-- Olympic Knurled Bar & Central Hex Shield -->
+  <rect x="54" y="238" width="404" height="36" rx="12" fill="#F8FAFC"/>
+  <path d="M256 156L316 190V322L256 356L196 322V190L256 156Z" fill="#13151B" stroke="#F97316" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M240 214H272V298H240V214Z" fill="#F8FAFC"/>
+</svg>

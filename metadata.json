@@ -1,0 +1,6 @@
+{
+  "name": "IRONLOG — Musculação, Treinos e Evolução Física",
+  "description": "Aplicativo pessoal premium de musculação, gestão de rotinas, biblioteca biomecânica de exercícios, modo academia e evolução física.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
